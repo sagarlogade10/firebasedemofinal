@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "67266299430",
+    "firebase_url": "https://myfirebaseauthapp-18975.firebaseio.com",
+    "project_id": "myfirebaseauthapp-18975",
+    "storage_bucket": "myfirebaseauthapp-18975.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67266299430:android:32ada0976cf5f5ce",
+        "android_client_info": {
+          "package_name": "com.example.sharman_1.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67266299430-262oo791gb8jtlgv31drkvr1v2pvuslt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT25ln7oGC-_63Gbj3IJ43ftoWeTnwkvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67266299430-262oo791gb8jtlgv31drkvr1v2pvuslt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
